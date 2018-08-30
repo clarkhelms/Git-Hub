@@ -20,4 +20,6 @@ Decide if a Start Menu Folder is appropriate
 ![startmenufolder2018-08-28_12-57-18](https://user-images.githubusercontent.com/34219519/44852043-d0b49e00-ac27-11e8-8946-48c0dbf77e92.jpg)  
 Click Next
 Then the choice of text editor popup will happen  
+![commandlineflavor2018-08-28_13-00-19](https://user-images.githubusercontent.com/34219519/44870926-fefda200-ac56-11e8-82ab-ee44d0976fa6.jpg)  
+
 
