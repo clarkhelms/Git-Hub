@@ -17,4 +17,6 @@ Now the components options popup is presented
 Accept the defaults and Next.
 Next popup will be the Select Start Menu Folder option and location.  
 Decide if a Start Menu Folder is appropriate  
-![startmenufolder2018-08-28_12-57-18](https://user-images.githubusercontent.com/34219519/44852043-d0b49e00-ac27-11e8-8946-48c0dbf77e92.jpg)
+![startmenufolder2018-08-28_12-57-18](https://user-images.githubusercontent.com/34219519/44852043-d0b49e00-ac27-11e8-8946-48c0dbf77e92.jpg)  
+Click Next
+Then the choice of text editor popup will happen  
