@@ -18,11 +18,12 @@ Accept the defaults and Next.
 Next popup will be the Select Start Menu Folder option and location.  
 Decide if a Start Menu Folder is appropriate  
 ![startmenufolder2018-08-28_12-57-18](https://user-images.githubusercontent.com/34219519/44852043-d0b49e00-ac27-11e8-8946-48c0dbf77e92.jpg)  
-Click Next
+Click Next  
 Then the choice of text editor popup will happen.  To make changes to projects, choose the editor of choice.  
-Vim and Atom are editors one might be familiar with.  
+Vim and Atom are editors one might be familiar with.     
 Unless one wants to make a change off the default, click Next.  
-![vimthegiteditor2018-08-28_12-59-00](https://user-images.githubusercontent.com/34219519/44883230-0e431680-ac7c-11e8-9d64-7740b58b0d6f.jpg)  
+Our popup regarding what program we will interact with to issue commands.  
+Please use Git from the Windows command prompt, the default.  
 ![commandlineflavor2018-08-28_13-00-19](https://user-images.githubusercontent.com/34219519/44870926-fefda200-ac56-11e8-82ab-ee44d0976fa6.jpg)  
 Protocol https gives us Transport Layer Security between our browsers and the GitHub website.  Accept the default  
 and click Next.  
